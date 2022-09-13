@@ -189,6 +189,9 @@
 <text x="7" y="15.5" size="1" layer="25" rot="R90" align="center">Avvicon MJ-495</text>
 <text x="1" y="1" size="1" layer="25" align="center-left">2-M2.5</text>
 <text x="7" y="16" size="1" layer="26" rot="MR90" align="center">T-R-S=NO-NC-Common</text>
+<text x="16" y="15.5" size="1" layer="25" rot="R90" align="center">2</text>
+<text x="16" y="17.5" size="1" layer="25" rot="R90" align="center">1</text>
+<text x="16" y="13.5" size="1" layer="25" rot="R90" align="center">3</text>
 </plain>
 <libraries>
 <library name="SparkFun-Aesthetics">
