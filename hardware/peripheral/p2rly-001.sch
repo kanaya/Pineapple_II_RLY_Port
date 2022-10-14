@@ -9129,14 +9129,6 @@ CONN_03
 <busses>
 </busses>
 <nets>
-<net name="NO" class="0">
-<segment>
-<pinref part="JJ4" gate="G$1" pin="TIP"/>
-<pinref part="J4" gate="J$1" pin="1"/>
-<wire x1="35.56" y1="119.38" x2="71.12" y2="119.38" width="0.1524" layer="91"/>
-<label x="58.42" y="119.38" size="1.778" layer="95"/>
-</segment>
-</net>
 <net name="COMMON" class="0">
 <segment>
 <pinref part="JJ4" gate="G$1" pin="SLEEVE"/>
@@ -9148,6 +9140,14 @@ CONN_03
 </segment>
 </net>
 <net name="NC" class="0">
+<segment>
+<pinref part="JJ4" gate="G$1" pin="TIP"/>
+<pinref part="J4" gate="J$1" pin="1"/>
+<wire x1="35.56" y1="119.38" x2="71.12" y2="119.38" width="0.1524" layer="91"/>
+<label x="58.42" y="119.38" size="1.778" layer="95"/>
+</segment>
+</net>
+<net name="NO" class="0">
 <segment>
 <pinref part="JJ4" gate="G$1" pin="RING"/>
 <wire x1="35.56" y1="127" x2="45.72" y2="127" width="0.1524" layer="91"/>
